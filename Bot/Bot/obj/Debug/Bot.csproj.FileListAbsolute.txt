@@ -1,0 +1,23 @@
+c:\users\2500118\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.exe.config
+c:\users\2500118\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.exe
+c:\users\2500118\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.pdb
+c:\users\2500118\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Microsoft.Lync.Model.dll
+c:\users\2500118\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Microsoft.Office.Uc.dll
+c:\users\2500118\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+c:\users\2500118\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.Properties.Resources.resources
+c:\users\2500118\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.csproj.GenerateResource.Cache
+c:\users\2500118\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.exe
+c:\users\2500118\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.pdb
+C:\Users\2500118\Documents\Visual Studio 2015\Projects\Bot\Bot\bin\Debug\MySql.Data.dll
+C:\Users\2500118\Documents\Visual Studio 2015\Projects\Bot\Bot\bin\Debug\Google.Protobuf.dll
+C:\Users\2500118\Documents\Visual Studio 2015\Projects\Bot\Bot\bin\Debug\MySql.Data.xml
+C:\Users\2500118\Documents\Visual Studio 2015\Projects\Bot\Bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\2500118\Documents\Visual Studio 2015\Projects\Bot\Bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\2500118\Documents\Visual Studio 2015\Projects\Bot\Bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Lee\Documents\GitHub\SkypeBot\Bot\Bot\obj\Debug\Bot.csprojAssemblyReference.cache
+C:\Users\Lee\Documents\GitHub\SkypeBot\Bot\Bot\obj\Debug\Bot.Form1.resources
+C:\Users\Lee\Documents\GitHub\SkypeBot\Bot\Bot\obj\Debug\Bot.Properties.Resources.resources
+C:\Users\Lee\Documents\GitHub\SkypeBot\Bot\Bot\obj\Debug\Bot.csproj.GenerateResource.cache
+C:\Users\Lee\Documents\GitHub\SkypeBot\Bot\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+C:\Users\Lee\Documents\GitHub\SkypeBot\Bot\Bot\obj\Debug\Bot.exe
+C:\Users\Lee\Documents\GitHub\SkypeBot\Bot\Bot\obj\Debug\Bot.pdb
